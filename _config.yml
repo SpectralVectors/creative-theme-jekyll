@@ -1,8 +1,8 @@
 # Site settings
-title: "Yeehaw"
+title: Highland Roller
 email:
 description: > # this means to ignore newlines until "baseurl:"
-baseurl: "/creative-theme-jekyll/" # the subpath of your site, e.g. /blog/
+baseurl: "/highlandroller/" # the subpath of your site, e.g. /blog/
 url: "spectralvectors.github.io" # the base hostname & protocol for your site
 
 twitter_username:
